@@ -1,0 +1,3 @@
+C:/Users/MONSTER PC/CLionProjects/Laba9ACD/cmake-build-debug/CMakeFiles/Laba9ACD.dir
+C:/Users/MONSTER PC/CLionProjects/Laba9ACD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MONSTER PC/CLionProjects/Laba9ACD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
